@@ -1,0 +1,26 @@
+{
+  "name": "deidentifier",
+  "version": "0.0.1",
+  "description": "Babel data deidentifier",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "Tarafder Ashek E Elahi",
+  "license": "MIT",
+  "bugs": {
+    "url": ""
+  },
+  "dependencies": {
+    "express": "^4.10.8"
+  },
+  "devDependencies": {
+    "faker": "^4.1.0",
+    "fast-csv": "^2.4.1",
+    "underscore": "^1.8.3"
+  }
+}
